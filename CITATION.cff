@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use TRACE-GS, please cite the software archive and the associated manuscript."
+title: "TRACE-GS: trait-adaptive transcriptomic residual assistance for genomic prediction"
+type: software
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+authors:
+  - family-names: Wang
+    given-names: Hao

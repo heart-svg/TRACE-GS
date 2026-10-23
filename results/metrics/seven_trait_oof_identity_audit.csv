@@ -1,0 +1,114 @@
+dataset,model,rows,unique_ID,duplicate_ID,folds,ID_outer_match,phenotype_match,phenotype_match_1e5,max_abs_phenotype_difference,finite
+Arabidopsis_Diameter,BayesA,430,430,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_Diameter,BayesB,430,430,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_Diameter,BayesC,430,430,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_Diameter,Cropformer,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,DEM DNA+RNA,430,430,0,"0,1,2,3,4",True,False,True,7.747554029435832e-07,True
+Arabidopsis_Diameter,DEM DNA-only,430,430,0,"0,1,2,3,4",True,False,True,7.747554029435832e-07,True
+Arabidopsis_Diameter,DEM-Fix DNA+RNA,430,430,0,"0,1,2,3,4",True,False,True,7.747554029435832e-07,True
+Arabidopsis_Diameter,DEM-Fix DNA-only,430,430,0,"0,1,2,3,4",True,False,True,7.747554029435832e-07,True
+Arabidopsis_Diameter,DeepGS,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,LASSO,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,LCNN,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,SVR,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,TRACE-GS DNA+RNA,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,TRACE-GS DNA-only,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,XGBoost,430,430,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Arabidopsis_Diameter,rrBLUP,430,430,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT10,BayesA,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT10,BayesB,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT10,BayesC,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT10,Cropformer,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,DEM DNA+RNA,645,645,0,"0,1,2,3,4",True,False,True,2.7969733906729743e-06,True
+Arabidopsis_FT10,DEM DNA-only,645,645,0,"0,1,2,3,4",True,False,True,2.7969733906729743e-06,True
+Arabidopsis_FT10,DEM-Fix DNA+RNA,645,645,0,"0,1,2,3,4",True,False,True,2.7969733906729743e-06,True
+Arabidopsis_FT10,DEM-Fix DNA-only,645,645,0,"0,1,2,3,4",True,False,True,2.7969733906729743e-06,True
+Arabidopsis_FT10,DeepGS,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,LASSO,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,LCNN,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,SVR,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,TRACE-GS DNA+RNA,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,TRACE-GS DNA-only,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,XGBoost,645,645,0,"0,1,2,3,4",True,True,True,5.115907697472721e-13,True
+Arabidopsis_FT10,rrBLUP,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT16,BayesA,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT16,BayesB,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT16,BayesC,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Arabidopsis_FT16,Cropformer,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,DEM DNA+RNA,645,645,0,"0,1,2,3,4",True,False,True,7.413477987938677e-06,True
+Arabidopsis_FT16,DEM DNA-only,645,645,0,"0,1,2,3,4",True,False,True,7.413477987938677e-06,True
+Arabidopsis_FT16,DEM-Fix DNA+RNA,645,645,0,"0,1,2,3,4",True,False,True,7.413477987938677e-06,True
+Arabidopsis_FT16,DEM-Fix DNA-only,645,645,0,"0,1,2,3,4",True,False,True,7.413477987938677e-06,True
+Arabidopsis_FT16,DeepGS,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,LASSO,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,LCNN,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,SVR,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,TRACE-GS DNA+RNA,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,TRACE-GS DNA-only,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,XGBoost,645,645,0,"0,1,2,3,4",True,True,True,4.973799150320701e-13,True
+Arabidopsis_FT16,rrBLUP,645,645,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,BayesA,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,BayesB,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,BayesC,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,Cropformer,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,DEM DNA+RNA,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,DEM DNA-only,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,DEM-Fix DNA+RNA,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,DEM-Fix DNA-only,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,DeepGS,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,LASSO,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,LCNN,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,SVR,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,TRACE-GS DNA+RNA,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,TRACE-GS DNA-only,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,XGBoost,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Drosophila_StarvationRes_M,rrBLUP,192,192,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_100grainweight,BayesA,366,366,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_100grainweight,BayesB,366,366,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_100grainweight,BayesC,366,366,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_100grainweight,Cropformer,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,DEM DNA+RNA,366,366,0,"0,1,2,3,4",True,False,True,9.966768992342168e-07,True
+Maize_100grainweight,DEM DNA-only,366,366,0,"0,1,2,3,4",True,False,True,9.966768992342168e-07,True
+Maize_100grainweight,DEM-Fix DNA+RNA,366,366,0,"0,1,2,3,4",True,False,True,9.966768992342168e-07,True
+Maize_100grainweight,DEM-Fix DNA-only,366,366,0,"0,1,2,3,4",True,False,True,9.966768992342168e-07,True
+Maize_100grainweight,DeepGS,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,LASSO,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,LCNN,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,SVR,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,TRACE-GS DNA+RNA,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,TRACE-GS DNA-only,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,XGBoost,366,366,0,"0,1,2,3,4",True,True,True,5.3290705182007514e-14,True
+Maize_100grainweight,rrBLUP,366,366,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_Headingdate,BayesA,368,368,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_Headingdate,BayesB,368,368,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_Headingdate,BayesC,368,368,0,"0,1,2,3,4",True,True,True,0.0,True
+Maize_Headingdate,Cropformer,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,DEM DNA+RNA,368,368,0,"0,1,2,3,4",True,False,True,3.7721009107372083e-06,True
+Maize_Headingdate,DEM DNA-only,368,368,0,"0,1,2,3,4",True,False,True,3.7721009107372083e-06,True
+Maize_Headingdate,DEM-Fix DNA+RNA,368,368,0,"0,1,2,3,4",True,False,True,3.7721009107372083e-06,True
+Maize_Headingdate,DEM-Fix DNA-only,368,368,0,"0,1,2,3,4",True,False,True,3.7721009107372083e-06,True
+Maize_Headingdate,DeepGS,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,LASSO,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,LCNN,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,SVR,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,TRACE-GS DNA+RNA,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,TRACE-GS DNA-only,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,XGBoost,368,368,0,"0,1,2,3,4",True,True,True,5.684341886080802e-14,True
+Maize_Headingdate,rrBLUP,368,368,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,BayesA,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,BayesB,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,BayesC,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,Cropformer,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,DEM DNA+RNA,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,DEM DNA-only,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,DEM-Fix DNA+RNA,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,DEM-Fix DNA-only,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,DeepGS,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,LASSO,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,LCNN,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,SVR,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,TRACE-GS DNA+RNA,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,TRACE-GS DNA-only,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,XGBoost,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+Stickleback_A_Freq.Lymph,rrBLUP,351,351,0,"0,1,2,3,4",True,True,True,0.0,True
+

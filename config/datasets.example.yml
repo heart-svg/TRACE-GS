@@ -1,0 +1,15 @@
+release_root: /path/to/TRACE-GS-release-v1.0.0
+raw_data_root: /path/to/third_party_data
+output_root: /path/to/output
+datasets:
+  arabidopsis_ft10:
+    genotype: /path/to/qc_genotype
+    transcriptome: /path/to/expression
+    phenotype: /path/to/phenotype
+    split_manifest: splits/random_fivefold/Arabidopsis_FT10_outer_test_manifest.csv
+  maize_headingdate:
+    genotype: /path/to/qc_genotype
+    transcriptome: /path/to/expression
+    phenotype: /path/to/phenotype
+    split_manifest: splits/random_fivefold/Maize_Headingdate_outer_test_manifest.csv
+

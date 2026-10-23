@@ -1,0 +1,89 @@
+{
+  "n_samples": 645,
+  "outer_test_sizes": [
+    128,
+    130,
+    129,
+    131,
+    127
+  ],
+  "largest_outer_fraction": 0.20310077519379846,
+  "distance_metric": "Euclidean distance in unstandardized genotype PC1-PC10",
+  "mean_nearest_train_distance_grouped": 0.048229077715585114,
+  "median_nearest_train_distance_grouped": 0.0359481296539653,
+  "random_assignment_repetitions": 200,
+  "random_mean_nearest_train_distance_median": 0.012018196405899198,
+  "grouped_to_random_distance_ratio": 4.0130046212185055,
+  "fraction_random_means_at_least_grouped": 0.0,
+  "inner_holdout_sizes_by_outer": {
+    "0": {
+      "0": 172,
+      "1": 172,
+      "2": 173
+    },
+    "1": {
+      "0": 174,
+      "1": 170,
+      "2": 171
+    },
+    "2": {
+      "0": 171,
+      "1": 174,
+      "2": 171
+    },
+    "3": {
+      "0": 170,
+      "1": 171,
+      "2": 173
+    },
+    "4": {
+      "0": 174,
+      "1": 172,
+      "2": 172
+    }
+  },
+  "minimum_inner_holdout_size": 170,
+  "phenotype_by_outer": [
+    {
+      "outer": 0,
+      "n": 128,
+      "mean": 81.24088542686229,
+      "sd": 15.449517157306886,
+      "min": 55.000000790581566,
+      "max": 130.2500018400317
+    },
+    {
+      "outer": 1,
+      "n": 130,
+      "mean": 85.04294874793038,
+      "sd": 16.35768575821303,
+      "min": 56.00000027754379,
+      "max": 118.9999989701828
+    },
+    {
+      "outer": 2,
+      "n": 129,
+      "mean": 82.4450904926709,
+      "sd": 12.503300304442348,
+      "min": 51.24999948471304,
+      "max": 119.50000068271402
+    },
+    {
+      "outer": 3,
+      "n": 131,
+      "mean": 77.32697205915767,
+      "sd": 17.656853871751053,
+      "min": 50.75000056136173,
+      "max": 137.99999823070675
+    },
+    {
+      "outer": 4,
+      "n": 127,
+      "mean": 78.0032807848836,
+      "sd": 14.813268220367748,
+      "min": 51.25000082611405,
+      "max": 115.99999943096508
+    }
+  ]
+}
+

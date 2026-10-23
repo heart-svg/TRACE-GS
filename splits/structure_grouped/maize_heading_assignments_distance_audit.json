@@ -1,0 +1,19 @@
+{
+  "n_samples": 368,
+  "outer_test_sizes": [
+    91,
+    69,
+    71,
+    69,
+    68
+  ],
+  "largest_outer_fraction": 0.24728260869565216,
+  "distance_metric": "Euclidean distance in unstandardized genotype PC1-PC10",
+  "mean_nearest_train_distance_grouped": 0.08414108435756641,
+  "median_nearest_train_distance_grouped": 0.06136996456829519,
+  "random_assignment_repetitions": 200,
+  "random_mean_nearest_train_distance_median": 0.027366719630491552,
+  "grouped_to_random_distance_ratio": 3.074576912894514,
+  "fraction_random_means_at_least_grouped": 0.0
+}
+

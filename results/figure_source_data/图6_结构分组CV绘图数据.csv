@@ -1,0 +1,7 @@
+species,trait,random_dna_pcc,random_fusion_pcc,random_delta,random_ci_low,random_ci_high,structure_dna_pcc,structure_fusion_pcc,structure_delta,structure_ci_low,structure_ci_high,structure_positive_folds,interpretation,trait_label,category,positive_label,trait_shape,label_x,label_y
+Arabidopsis thaliana,FT10,0.745,0.7625,0.0174,0.0058,0.0295,0.58847,0.632968,0.044498,0.009369,0.078973,4,stable,FT10,Stable positive gain,4/5,FT10,0.01,0.052
+Arabidopsis thaliana,FT16,0.7483,0.7812,0.0329,0.0196,0.0468,0.604148,0.673601,0.069453,0.035861,0.101902,4,stable,FT16,Stable positive gain,4/5,FT16,0.035,0.083
+Arabidopsis thaliana,Diameter,0.174,0.1475,-0.0264,-0.0558,0.0025,0.04171,0.041598,-0.000112,-0.001665,0.001404,1,fallback,Diameter,DNA-only fallback,1/5,Diameter,-0.057,-0.014
+Zea mays,100-grain weight,0.3699,0.3718,0.0019,-0.0106,0.0151,0.154152,0.163116,0.008965,-0.005663,0.023088,1,uncertain,100-grain weight,Uncertain,1/5,100-grain weight,-0.02,0.026
+Zea mays,Heading date,0.6002,0.6443,0.0441,0.0201,0.0683,0.503513,0.55873,0.055217,0.021189,0.093885,5,stable,Heading date,Stable positive gain,5/5,Heading date,0.058,0.066
+Drosophila melanogaster,Male starvation resistance,0.1702,0.3047,0.1345,0.0186,0.2519,0.189714,0.205111,0.015397,-0.104144,0.135874,4,uncertain,Fly starvation,Uncertain,4/5,Fly starvation,0.106,0.025

@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/path/to/trace_gs_workspace\\paper_evidence_20260921\\tables\\all_predictions_long_with_audit_status.csv",
+    "sha256": "192afd3ef858f62ff34867cf0cdaedabfac0ffe008041f78482691338db0e8f3",
+    "bytes": 10072875
+  },
+  {
+    "path": "/path/to/trace_gs_workspace\\paper_completion_20261015\\source_data\\drosophila_formal_oof_long.csv",
+    "sha256": "b2a68b141b14a753f9c153a3a351cf39f15559ed0e85a536ed2b298169dac08d",
+    "bytes": 129379
+  },
+  {
+    "path": "/path/to/trace_gs_workspace\\paper_completion_20261015\\source_data\\stickleback_formal_oof_long.csv",
+    "sha256": "4b45bf6c1154f4f71a832fabee62271aed78298b8e20941834c329fbfb6d8107",
+    "bytes": 231706
+  }
+]

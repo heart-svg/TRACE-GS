@@ -1,0 +1,113 @@
+panel,trait,dataset,model,n,valid_PCC_folds,mean_fold_PCC,sd_fold_PCC
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,TRACE-GS DNA+RNA,645,5,0.765423897196848,0.0359362188853647
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,TRACE-GS DNA-only,645,5,0.749894150337518,0.0524520290446945
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,DEM DNA+RNA,645,5,0.71771436089747,0.0486571115889198
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,DEM-Fix DNA+RNA,645,5,0.738131687364307,0.0194434832817652
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,DEM DNA-only,645,5,0.711460021317719,0.049420444662819
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,DEM-Fix DNA-only,645,5,0.708116616518007,0.039351085845429
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,rrBLUP,645,5,0.748327103293122,0.0483952929467476
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,BayesA,645,5,0.749552399251344,0.0495161564451563
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,BayesB,645,5,0.749376460414003,0.048076950957769
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,BayesC,645,5,0.749020555872743,0.048884340038987
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,LASSO,645,5,0.680068899653084,0.0509182730379724
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,SVR,645,5,0.699115143017063,0.0615566425492315
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,XGBoost,645,5,0.735201323135765,0.0478945262527327
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,DeepGS,645,5,0.757664630569727,0.0526185152299588
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,LCNN,645,5,0.759948712759291,0.050897867715942
+a  Arabidopsis thaliana,FT10,Arabidopsis_FT10,Cropformer,645,5,0.402233031848137,0.0659156270551688
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,TRACE-GS DNA+RNA,645,5,0.789536282126462,0.022617931911253
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,TRACE-GS DNA-only,645,5,0.757904128070999,0.0148301019441175
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,DEM DNA+RNA,645,5,0.767890225181658,0.0206813641134206
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,DEM-Fix DNA+RNA,645,5,0.755771673908548,0.0235717216870891
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,DEM DNA-only,645,5,0.708463981660977,0.0252264942968867
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,DEM-Fix DNA-only,645,5,0.733540506339645,0.0238224368880524
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,rrBLUP,645,5,0.756980937862959,0.0209411870791744
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,BayesA,645,5,0.758188344559512,0.0186386835486083
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,BayesB,645,5,0.756063396731945,0.0191716147671861
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,BayesC,645,5,0.759183476332036,0.020150153176056
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,LASSO,645,5,0.708556116775197,0.0345230647318893
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,SVR,645,5,0.719048643509083,0.0382895505334272
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,XGBoost,645,5,0.743317736497459,0.0292056558413889
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,DeepGS,645,5,0.761271390614525,0.0143543464576186
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,LCNN,645,5,0.769999298533763,0.0155886549364999
+a  Arabidopsis thaliana,FT16,Arabidopsis_FT16,Cropformer,645,5,0.384842903858895,0.102717969210404
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,TRACE-GS DNA+RNA,430,5,0.144794082426362,0.0779202801395611
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,TRACE-GS DNA-only,430,5,0.170240196286655,0.101822787726789
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,DEM DNA+RNA,430,5,0.166496771748376,0.0746289375656237
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,DEM-Fix DNA+RNA,430,5,0.174950567581581,0.0805532152239733
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,DEM DNA-only,430,5,0.179230805410459,0.0897177876352667
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,DEM-Fix DNA-only,430,5,0.120548038199788,0.109517937159373
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,rrBLUP,430,5,0.162431963103831,0.0762998285804479
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,BayesA,430,5,0.16293874426002,0.0847557875968905
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,BayesB,430,5,0.168491037994503,0.0905371589005141
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,BayesC,430,5,0.15777327230464,0.0859571314691528
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,LASSO,430,5,0.0424676302498221,0.0339414937472314
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,SVR,430,5,0.163976265328863,0.0970260414486033
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,XGBoost,430,5,0.136452324850959,0.0845346256618181
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,DeepGS,430,5,0.137778738475688,0.0995687322731487
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,LCNN,430,5,0.148854895639573,0.109128089921514
+a  Arabidopsis thaliana,Diameter,Arabidopsis_Diameter,Cropformer,430,5,-0.0231875061242087,0.0714712937749065
+b  Zea mays,100-grain weight,Maize_100grainweight,TRACE-GS DNA+RNA,366,5,0.391047246994825,0.0566811367251947
+b  Zea mays,100-grain weight,Maize_100grainweight,TRACE-GS DNA-only,366,5,0.389847925177204,0.0550897571750133
+b  Zea mays,100-grain weight,Maize_100grainweight,DEM DNA+RNA,366,5,0.299319527767627,0.115808183107227
+b  Zea mays,100-grain weight,Maize_100grainweight,DEM-Fix DNA+RNA,366,5,0.298437775731254,0.101601984358953
+b  Zea mays,100-grain weight,Maize_100grainweight,DEM DNA-only,366,5,0.287484548839353,0.0725683368384679
+b  Zea mays,100-grain weight,Maize_100grainweight,DEM-Fix DNA-only,366,5,0.29869405706461,0.11930167951795
+b  Zea mays,100-grain weight,Maize_100grainweight,rrBLUP,366,5,0.373904227568469,0.0895492068302616
+b  Zea mays,100-grain weight,Maize_100grainweight,BayesA,366,5,0.383189163744869,0.066631051747705
+b  Zea mays,100-grain weight,Maize_100grainweight,BayesB,366,5,0.387350228052474,0.0696022642841029
+b  Zea mays,100-grain weight,Maize_100grainweight,BayesC,366,5,0.382043740216393,0.0713794772405136
+b  Zea mays,100-grain weight,Maize_100grainweight,LASSO,366,4,,
+b  Zea mays,100-grain weight,Maize_100grainweight,SVR,366,5,0.365350638100665,0.0622294321415024
+b  Zea mays,100-grain weight,Maize_100grainweight,XGBoost,366,5,0.325287546783448,0.0507466882834285
+b  Zea mays,100-grain weight,Maize_100grainweight,DeepGS,366,5,0.389526424768155,0.0709769988458806
+b  Zea mays,100-grain weight,Maize_100grainweight,LCNN,366,5,0.381405043009559,0.0675832618176923
+b  Zea mays,100-grain weight,Maize_100grainweight,Cropformer,366,5,-0.02653138986696,0.131190396770318
+b  Zea mays,Heading date,Maize_Headingdate,TRACE-GS DNA+RNA,368,5,0.659928616738618,0.0734866074494041
+b  Zea mays,Heading date,Maize_Headingdate,TRACE-GS DNA-only,368,5,0.616400959249779,0.0737650136303644
+b  Zea mays,Heading date,Maize_Headingdate,DEM DNA+RNA,368,5,0.6110713984655,0.064515810309166
+b  Zea mays,Heading date,Maize_Headingdate,DEM-Fix DNA+RNA,368,5,0.631907774784215,0.0564654919436264
+b  Zea mays,Heading date,Maize_Headingdate,DEM DNA-only,368,5,0.562276864222099,0.0572452210151418
+b  Zea mays,Heading date,Maize_Headingdate,DEM-Fix DNA-only,368,5,0.545505833276772,0.0682568318080332
+b  Zea mays,Heading date,Maize_Headingdate,rrBLUP,368,5,0.618479798506187,0.0764556341637407
+b  Zea mays,Heading date,Maize_Headingdate,BayesA,368,5,0.614827346589153,0.0745736906476996
+b  Zea mays,Heading date,Maize_Headingdate,BayesB,368,5,0.616412727259226,0.0755900950851564
+b  Zea mays,Heading date,Maize_Headingdate,BayesC,368,5,0.614272510024408,0.0793314920677188
+b  Zea mays,Heading date,Maize_Headingdate,LASSO,368,5,0.519241952157327,0.0929356049625959
+b  Zea mays,Heading date,Maize_Headingdate,SVR,368,5,0.588862210530461,0.0688926650923633
+b  Zea mays,Heading date,Maize_Headingdate,XGBoost,368,5,0.57094157903007,0.0424268529700447
+b  Zea mays,Heading date,Maize_Headingdate,DeepGS,368,5,0.608673332370972,0.0752673018849661
+b  Zea mays,Heading date,Maize_Headingdate,LCNN,368,5,0.600428946997138,0.0675727329392084
+b  Zea mays,Heading date,Maize_Headingdate,Cropformer,368,5,0.117863951789399,0.119021549277008
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,TRACE-GS DNA+RNA,192,5,0.375844273636444,0.0519082852834197
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,TRACE-GS DNA-only,192,5,0.247465241413623,0.0722300255902897
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,DEM DNA+RNA,192,5,0.220805796604791,0.145243724891535
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,DEM-Fix DNA+RNA,192,5,0.274198561543502,0.137354784046653
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,DEM DNA-only,192,5,0.1732116050683,0.182326022052084
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,DEM-Fix DNA-only,192,5,0.184669977320128,0.144740467850658
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,rrBLUP,192,5,0.319705954926732,0.0513203726218892
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,BayesA,192,5,0.217924795157587,0.107695699541537
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,BayesB,192,5,0.224634823373951,0.0909441803085037
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,BayesC,192,5,0.209327569097157,0.125217163439861
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,LASSO,192,5,0.0810938064214288,0.0742493364669921
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,SVR,192,5,0.211369816685856,0.0762858502590046
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,XGBoost,192,5,0.19113321351606,0.106546690098528
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,DeepGS,192,5,0.259619373574668,0.0941392845989227
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,LCNN,192,5,0.186731152295048,0.122294834748175
+c  Animal validation,Fly starvation,Drosophila_StarvationRes_M,Cropformer,192,5,0.225640954848354,0.0695897148801211
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,TRACE-GS DNA+RNA,351,5,0.667730980553007,0.115379444568867
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,TRACE-GS DNA-only,351,5,0.293469704961576,0.184477013441448
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,DEM DNA+RNA,351,5,0.668460331831259,0.10931716393912
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,DEM-Fix DNA+RNA,351,5,0.755920667480615,0.0755338745700979
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,DEM DNA-only,351,5,0.12234433031097,0.190645040992033
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,DEM-Fix DNA-only,351,5,0.214199956207322,0.104534512907461
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,rrBLUP,351,5,0.239257803297421,0.135439339842507
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,BayesA,351,5,0.240484885516575,0.144955704799923
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,BayesB,351,5,0.243347630994096,0.164196236446665
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,BayesC,351,5,0.240700494430585,0.145650763400517
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,LASSO,351,5,0.200751244315306,0.137647689313135
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,SVR,351,5,0.285486038899805,0.0738111553201771
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,XGBoost,351,5,0.281737190839328,0.0476601236277776
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,DeepGS,351,5,0.170826415501909,0.106053724329134
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,LCNN,351,5,0.182160501386368,0.0671963636992316
+c  Animal validation,Stickleback immunity,Stickleback_A_Freq.Lymph,Cropformer,351,5,0.148006147983717,0.0984371419139793

@@ -1,0 +1,18 @@
+{
+  "locked": true,
+  "models": {
+    "rrBLUP": {"implementation": "R rrBLUP::mixed.solve", "environment": "pending_offline_R_bundle"},
+    "BayesA": {"implementation": "R BGLR BayesA", "environment": "pending_offline_R_bundle"},
+    "BayesB": {"implementation": "R BGLR BayesB", "environment": "pending_offline_R_bundle"},
+    "BayesC": {"implementation": "R BGLR BayesC", "environment": "pending_offline_R_bundle"},
+    "LASSO": {"implementation": "sklearn Lasso", "environment": "ready_both"},
+    "SVR": {"implementation": "sklearn SVR", "environment": "ready_both"},
+    "XGBoost": {"implementation": "xgboost XGBRegressor", "environment": "ready_seed_pending_spark_arm64"},
+    "DeepGS": {"implementation": "author R package cma2015/DeepGS v1.2 on ordered SNP matrix", "environment": "official_source_present_adapter_required", "old_s2g_outputs": "development_only_excluded"},
+    "LCNN": {"implementation": "Pook et al. 2020 supplementary Keras scripts on ordered 0/1/2 SNP matrix", "environment": "official_supplement_downloaded_legacy_adapter_required", "old_s2g_outputs": "development_only_excluded"},
+    "Cropformer": {"implementation": "author repository jiekesen/Cropformer with official PED conversion and SNP encoding", "environment": "official_source_present_adapter_required", "old_s2g_outputs": "development_only_excluded"},
+    "DEM": {"implementation": "official source", "environment": "ready"},
+    "DEM-Fix": {"implementation": "official source with within-sample attention correction", "environment": "ready"}
+  }
+}
+

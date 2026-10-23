@@ -1,0 +1,164 @@
+[
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT10\\outer_0_predictions.csv",
+    "sha256": "d7d20d9d7a38960a4f1b24d9b2e33c581bcbd6b80e77d3ff7fb2f4f49f13f89d",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT10"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT10\\outer_1_predictions.csv",
+    "sha256": "ba62f6a3f4b86c36f5a47060e36996cb286e2687e9b2b8c07b9d59140def91b6",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT10"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT10\\outer_2_predictions.csv",
+    "sha256": "a21b640ab477031a086c0f55035df763e25490fbb3985e68c595271895482209",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT10"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT10\\outer_3_predictions.csv",
+    "sha256": "1212bdee45f3164f78836d345793209cac51847fe6d1f5941a17e7f55c8febed",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT10"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT10\\outer_4_predictions.csv",
+    "sha256": "b4c5910679276dfb9e0b0292287e0ae4cea53430c0dfbe87fce58b68bcfeb2d2",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT10"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT16\\outer_0_predictions.csv",
+    "sha256": "67ab3a304a2bd046067bc13995ac9763f3a8c5e72f2cb17ab8bf63f1ca539acc",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT16"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT16\\outer_1_predictions.csv",
+    "sha256": "9202c998ce5de3aa3e05ca2215ae56fcd460d058acd4194b200a37e82e1c2381",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT16"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT16\\outer_2_predictions.csv",
+    "sha256": "0278c3c7e72e41c643fba24262ca884dda364508a45d6d5e36564db0a1868c0d",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT16"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT16\\outer_3_predictions.csv",
+    "sha256": "9ed0632cd63390781c0d84eee483d7b43d1c9f8260c0a663ee4b0b690f6aba5b",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT16"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_FT16\\outer_4_predictions.csv",
+    "sha256": "5f5ce0dd195d93ba69061fc04cff526aea97233e6a73f79a7539f382c6b02357",
+    "n_rows": 129,
+    "trait": "Arabidopsis_FT16"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_Diameter\\outer_0_predictions.csv",
+    "sha256": "1ec99ef775a1f1b4f1635b02217a1797f853c35a27b4f3553ac9107b9347d563",
+    "n_rows": 87,
+    "trait": "Arabidopsis_Diameter"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_Diameter\\outer_1_predictions.csv",
+    "sha256": "9fb9421c777e51d0d3898f806369bc7fb90a188a3640fa47737bf52c48c030f7",
+    "n_rows": 87,
+    "trait": "Arabidopsis_Diameter"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_Diameter\\outer_2_predictions.csv",
+    "sha256": "2dba4e4d7bf671605615ecd5a9a099fe60d9754d8e5bf2fe7964484aef252953",
+    "n_rows": 87,
+    "trait": "Arabidopsis_Diameter"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_Diameter\\outer_3_predictions.csv",
+    "sha256": "7cda1df5c0066990f277cc2dff566ca995cda01096c915cdf32d2f5c3bfc81da",
+    "n_rows": 85,
+    "trait": "Arabidopsis_Diameter"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\arabidopsis_Diameter\\outer_4_predictions.csv",
+    "sha256": "74acc9b49837f20d48336bce9d864744f1651245c13012c1bc012bbad429ab53",
+    "n_rows": 84,
+    "trait": "Arabidopsis_Diameter"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_100grainweight\\outer_0_predictions.csv",
+    "sha256": "7004988a6061d2c0fcfa3deabfb71eed4645a16eb2ca57377af2c3e0ff500e32",
+    "n_rows": 75,
+    "trait": "Maize_100grainweight"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_100grainweight\\outer_1_predictions.csv",
+    "sha256": "da564f9754e58f62063668de011790191ce801b719a01872ae1572eb75184828",
+    "n_rows": 75,
+    "trait": "Maize_100grainweight"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_100grainweight\\outer_2_predictions.csv",
+    "sha256": "35ba4a84ff0765cc9145a273b3b24c249a6e8b536ba52525c2557206d7a364b1",
+    "n_rows": 72,
+    "trait": "Maize_100grainweight"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_100grainweight\\outer_3_predictions.csv",
+    "sha256": "48cccbcad2942fd2382f16d0b3c840901f5a49b14f5cd7ba643fe7896ae2e5f6",
+    "n_rows": 72,
+    "trait": "Maize_100grainweight"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_100grainweight\\outer_4_predictions.csv",
+    "sha256": "a53f1c67d39f6a1e77c90a3f30cbee4e4c20bd44e2294175a02e778f111f75df",
+    "n_rows": 72,
+    "trait": "Maize_100grainweight"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_Headingdate\\outer_0_predictions.csv",
+    "sha256": "c8b1cd906084f42c1750f0903a076bada6dbf53b71951102001205d533648a7a",
+    "n_rows": 75,
+    "trait": "Maize_Headingdate"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_Headingdate\\outer_1_predictions.csv",
+    "sha256": "e94d0227221ea8163ff188b4c4fa0b342c25fa78faec04d13ce23ca7e77937a2",
+    "n_rows": 75,
+    "trait": "Maize_Headingdate"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_Headingdate\\outer_2_predictions.csv",
+    "sha256": "2c934654af2e954689f0b8e22f2c1deefe81109e9ca1230f9d1a189848695792",
+    "n_rows": 74,
+    "trait": "Maize_Headingdate"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_Headingdate\\outer_3_predictions.csv",
+    "sha256": "c0c2b0418f3129c382946177c450ecf0374e456724b8787876ecfc74b9e2e55d",
+    "n_rows": 72,
+    "trait": "Maize_Headingdate"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\maize_Headingdate\\outer_4_predictions.csv",
+    "sha256": "72696f55a349734d0c4b4d818fbaf2868352d0e2b3bc55a5d0005cba302b507d",
+    "n_rows": 72,
+    "trait": "Maize_Headingdate"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\fish_stickleback_final_audit\\fish_model_oof_predictions.csv",
+    "sha256": "d565b4a4369f6098a1215e54298bc042dbce9fbb35dc9cce18116df20c5fbd0c",
+    "n_rows": 2106,
+    "trait": "Stickleback_A_Freq.Lymph"
+  },
+  {
+    "file": "paper_completion_20261014\\source_data\\drosophila\\trace_pooled_oof_predictions.csv",
+    "sha256": "09b991f7bfe00e2e74981af99fcba8d6b567bc69e91b926408515e7b6d2f9581",
+    "n_rows": 192,
+    "trait": "Drosophila_StarvationRes_M"
+  }
+]

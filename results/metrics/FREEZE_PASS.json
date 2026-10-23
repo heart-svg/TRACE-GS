@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "date": "2026-10-15",
+  "datasets": [
+    "Arabidopsis_Diameter",
+    "Arabidopsis_FT10",
+    "Arabidopsis_FT16",
+    "Drosophila_StarvationRes_M",
+    "Maize_100grainweight",
+    "Maize_Headingdate",
+    "Stickleback_A_Freq.Lymph"
+  ],
+  "n_datasets": 7,
+  "models_required": [
+    "rrBLUP",
+    "BayesA",
+    "BayesB",
+    "BayesC",
+    "LASSO",
+    "SVR",
+    "XGBoost",
+    "DeepGS",
+    "LCNN",
+    "Cropformer",
+    "DEM DNA-only",
+    "DEM DNA+RNA",
+    "DEM-Fix DNA-only",
+    "DEM-Fix DNA+RNA",
+    "TRACE-GS DNA-only",
+    "TRACE-GS DNA+RNA"
+  ],
+  "rows": 47952,
+  "primary_metric": "mean of five outer-fold PCC values",
+  "pooled_metric_role": "secondary diagnostic"
+}

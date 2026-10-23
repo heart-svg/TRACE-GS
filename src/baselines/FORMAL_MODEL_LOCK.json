@@ -1,0 +1,14 @@
+{
+  "status": "LOCKED_BEFORE_RESULTS",
+  "locked_on": "2026-09-17",
+  "dna_only_models": [
+    "rrBLUP", "BayesA", "BayesB", "BayesC", "LASSO", "SVR",
+    "XGBoost", "DeepGS", "LCNN", "Cropformer",
+    "DEM-DNA", "DEM-Fix-DNA", "TRACE-GS-DNA"
+  ],
+  "multiomics_models": ["DEM", "DEM-Fix", "TRACE-GS"],
+  "exclusion_rule": "A locked model may be excluded only for a documented reproducibility, licensing, task-compatibility, or resource failure; predictive performance is never an exclusion criterion.",
+  "primary_metrics": ["PCC", "RMSE", "MAE"],
+  "cv": {"outer_folds": 5, "test_access": "once_after_selection", "join_key": "material_ID"}
+}
+

@@ -1,0 +1,11 @@
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.2
+scikit-learn==1.7.2
+pyarrow==25.0.1
+torch==2.12.0.dev20260408+cu128
+matplotlib
+seaborn
+xgboost==3.2.0
+pytest
+

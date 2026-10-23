@@ -1,0 +1,42 @@
+schema_version: 1
+scope: "Search spaces encoded in the frozen comparator entry scripts; values are selected using validation data only."
+verification_status: "implementation_snapshot_not_yet_identity_matched_to_every_reported_OOF_result"
+models:
+  rrBLUP:
+    implementation: "rrBLUP::mixed.solve"
+    hpo: none
+  BayesA:
+    implementation: "BGLR"
+    fixed: {nIter: 12000, burnIn: 2000, thin: 5}
+  BayesB:
+    implementation: "BGLR"
+    fixed: {nIter: 12000, burnIn: 2000, thin: 5}
+  BayesC:
+    implementation: "BGLR"
+    fixed: {nIter: 12000, burnIn: 2000, thin: 5}
+  LASSO:
+    search: {alpha: [0.001, 0.01, 0.1, 1.0]}
+    fixed: {max_iter: 20000}
+  SVR:
+    search: {C: [0.1, 1.0, 10.0], gamma: [scale, 0.001]}
+    fixed: {epsilon: 0.1}
+  XGBoost:
+    search: {max_depth: [3, 6], reg_lambda: [1.0, 10.0]}
+    fixed: {n_estimators: 800, learning_rate: 0.03, subsample: 0.8, colsample_bytree: 0.8, tree_method: hist}
+  DeepGS:
+    search:
+      learning_rate_weight_decay: [[0.001, 0.0001], [0.0003, 0.0001], [0.0001, 0.0001], [0.001, 0.001], [0.0003, 0.001]]
+    fixed: {optimizer: AdamW, batch_size: 32, max_epochs: 200, patience: 25, selection_metric: validation_MSE}
+  LCNN:
+    search:
+      learning_rate_weight_decay: [[0.001, 0.0001], [0.0003, 0.0001], [0.0001, 0.0001], [0.001, 0.001], [0.0003, 0.001]]
+    fixed: {optimizer: AdamW, batch_size: 32, max_epochs: 200, patience: 25, selection_metric: validation_MSE}
+  Cropformer:
+    search:
+      learning_rate_weight_decay: [[0.001, 0.0001], [0.0003, 0.0001], [0.0001, 0.0001], [0.001, 0.001], [0.0003, 0.001]]
+    fixed: {optimizer: AdamW, batch_size: 32, max_epochs: 200, patience: 25, selection_metric: validation_MSE}
+provenance:
+  statistical_models: src/baselines/run_r_gs_formal.R
+  machine_learning_models: src/baselines/run_s2g_baselines.py
+  deep_learning_models: src/baselines/run_deep_s2g.py
+
