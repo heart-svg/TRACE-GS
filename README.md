@@ -31,7 +31,7 @@ The primary environment is documented in `environment.yml` and `requirements.txt
 
 ## Citation and version
 
-Version: 1.0.1. The public source repository is available at https://github.com/heart-svg/TRACE-GS. Cite the frozen archive using `CITATION.cff` and the Zenodo DOI associated with this release.
+Version: 1.0.1. The public source repository is available at https://github.com/heart-svg/TRACE-GS. The frozen archival release is available at https://doi.org/10.5281/zenodo.23584355. Cite the archive using `CITATION.cff` and this version-specific DOI.
 
 ## License
 

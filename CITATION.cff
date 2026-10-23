@@ -8,3 +8,8 @@ license: MIT
 authors:
   - family-names: Wang
     given-names: Hao
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23584355
+repository-code: "https://github.com/heart-svg/TRACE-GS"
+url: "https://doi.org/10.5281/zenodo.23584355"
